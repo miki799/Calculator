@@ -1,0 +1,32 @@
+2021-05-17 20:48:04 [main] INFO  calc.Calculator - Launching calculator! Launching calculator! Launching calculator! Launching calculator!
+2021-05-17 20:48:05 [AWT-EventQueue-0] INFO  calc.Calculator - input = 1
+2021-05-17 20:48:05 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 1 s1 =  s2 = 
+2021-05-17 20:48:06 [AWT-EventQueue-0] INFO  calc.Calculator - input = 2
+2021-05-17 20:48:06 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 12 s1 =  s2 = 
+2021-05-17 20:48:06 [AWT-EventQueue-0] INFO  calc.Calculator - input = +
+2021-05-17 20:48:06 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 12 s1 = + s2 = 
+2021-05-17 20:48:07 [AWT-EventQueue-0] INFO  calc.Calculator - input = 3
+2021-05-17 20:48:07 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 12 s1 = + s2 = 3
+2021-05-17 20:48:07 [AWT-EventQueue-0] INFO  calc.Calculator - input = =
+2021-05-17 20:48:07 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 15 s1 = + s2 = 3
+2021-05-17 20:48:09 [AWT-EventQueue-0] INFO  calc.Calculator - input = 5
+2021-05-17 20:48:09 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 5 s1 =  s2 = 
+2021-05-17 20:48:09 [AWT-EventQueue-0] INFO  calc.Calculator - input = =
+2021-05-17 20:48:09 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 5 s1 =  s2 = 
+2021-05-17 20:48:11 [AWT-EventQueue-0] INFO  calc.Calculator - input = +
+2021-05-17 20:48:11 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 5 s1 = + s2 = 
+2021-05-17 20:48:11 [AWT-EventQueue-0] INFO  calc.Calculator - input = 3
+2021-05-17 20:48:11 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 5 s1 = + s2 = 3
+2021-05-17 20:48:12 [AWT-EventQueue-0] INFO  calc.Calculator - input = =
+2021-05-17 20:48:12 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 8 s1 = + s2 = 3
+2021-05-17 20:48:12 [AWT-EventQueue-0] INFO  calc.Calculator - input = =
+2021-05-17 20:48:12 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 11 s1 = + s2 = 3
+2021-05-17 20:48:14 [AWT-EventQueue-0] INFO  calc.Calculator - input = /
+2021-05-17 20:48:14 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 11 s1 = / s2 = 
+2021-05-17 20:48:15 [AWT-EventQueue-0] INFO  calc.Calculator - input = 0
+2021-05-17 20:48:15 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 11 s1 = / s2 = 0
+2021-05-17 20:48:15 [AWT-EventQueue-0] INFO  calc.Calculator - input = =
+2021-05-17 20:48:15 [AWT-EventQueue-0] ERROR calc.Calculator - / by zero
+2021-05-17 20:48:15 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = NaN s1 = / s2 = 0
+2021-05-17 20:48:16 [AWT-EventQueue-0] INFO  calc.Calculator - input = C
+2021-05-17 20:48:16 [AWT-EventQueue-0] INFO  calc.Calculator - s0 = 0 s1 =  s2 = 
