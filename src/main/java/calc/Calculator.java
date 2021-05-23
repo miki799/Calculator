@@ -139,9 +139,18 @@ public class Calculator {
 
             } else if (input == '=') {
 
-                if (!s0.equals("") && s2.equals("")) {
-                    logger.info("s0 = " + s0 + " s1 = " + s1 + " s2 = " + s2);
+                if (!s0.isEmpty() && !s1.isEmpty() && s2.isEmpty()) {
+                    s2 = s0;
+                    repeated++;
+                    calculation();
+                    logger.info("s0 = " + s0 + ", s1 = " + s1 + ", s2 = " + s2);
                     textField.setText(s0);
+                    return;
+                }
+                else if (!s0.equals("") && s2.equals("")) {
+                    logger.info("s0 = " + s0 + ", s1 = " + s1 + ", s2 = " + s2);
+                    textField.setText(s0);
+                    //equalizeOnly = true;  ToDo
                     return;
                 }
 
